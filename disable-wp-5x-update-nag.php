@@ -5,8 +5,8 @@ Plugin URI:             https://github.com/rvola/disable-wp-gutenberg-update
 
 Description:            Disable the update to WordPress 5.X (Gutenberg), while keeping the possibility of automatic updates and lower than 5.X.
 
-Version:                1.0.0
-Revision:               2018-12-19
+Version:                1.0.1
+Revision:               2018-12-21
 Creation:               2018-12-19
 
 Author:                 studio RVOLA

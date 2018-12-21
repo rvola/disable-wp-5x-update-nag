@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/rvola
 Tags: update, gutenberg, wordpress, autoupdater
 Requires at least: 3.0
 Tested up to: 5.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -22,5 +22,9 @@ Disable the update to Wordpress 5.X (Gutenberg), while keeping the possibility o
 
 == Changelog ==
 
-= 1.0.0. | 2018-12-19 =
+= 1.0.1 | 2018-12-21 =
+* Rename files for WP recommendation
+* Fix link changelog.md
+
+= 1.0.0 | 2018-12-19 =
 * Launch Plugin
