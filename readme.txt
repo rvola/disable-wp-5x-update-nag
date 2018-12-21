@@ -13,7 +13,7 @@ Disable the update to Wordpress 5.X (Gutenberg), while keeping the possibility o
 == Description ==
 Disable the update to Wordpress 5.X (Gutenberg), while keeping the possibility of automatic updates and lower than 5.X.
 
-[**GitHub**](https://github.com/rvola/disable-wp-gutenberg-update) | [**Donate**](https://www.paypal.me/rvola)
+[**GitHub**](https://github.com/rvola/disable-wp-5x-update-nag) | [**Donate**](https://www.paypal.me/rvola)
 
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
