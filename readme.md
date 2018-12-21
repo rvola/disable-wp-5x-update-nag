@@ -18,5 +18,5 @@ This section describes how to install the plugin and get it working.
 ## Links
 
 * [**Changelog**](https://github.com/rvola/disable-wp-5x-update-nag/blob/master/CHANGELOG.md)
-[**Download on WordPress**](https://wordpress.org/plugins/disable-wp-5x-update-nag/)
+* [**Download on WordPress**](https://wordpress.org/plugins/disable-wp-5x-update-nag/)
 
